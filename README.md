@@ -33,7 +33,7 @@ You can pull in these test suites through [freeCodeCamp's CDN](https://cdn.freec
 Once you've earned a certification, you will always have it. You will always be able to link to it from your LinkedIn or resume. And when your prospective employers or freelance clients click that link, they'll see a verified certification specific to you.
 
 The one exception to this is if we discover violations of our [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/). When we catch people unambiguously plagiarizing (submitting other people's code or projects as their own without citation), we do what all rigorous institutions of learning should do - we revoke their certifications and ban those people.
-
+apikey: glpat-srwNyMFxKpr1z2AzNWXw
 Here are our twelve core certifications:
 
 #### 1. [Responsive Web Design Certification](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
